@@ -1,0 +1,8 @@
+var namee = ("Avaz Frontend Developer")
+console.log("Avaz Rustamov")
+console.log(namee)
+console.log(namee)
+console.log(namee)
+console.log(namee)
+console.log(namee)
+console.log(namee)
